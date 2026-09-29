@@ -85,7 +85,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://jwt.io/img/pic_logo.svg" width="45" height="45" alt="JWT"/><br>
+<img src="https://jwt.io/img/pic_logo.svg" width="45" height="45" alt="JWT Authentication"/><br>
 <b>JWT Auth</b>
 </td>
 
@@ -103,7 +103,7 @@
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB Atlas"/><br>
 <b>MongoDB Atlas</b>
 </td>
 
@@ -141,7 +141,12 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/mysql" width="45" height="45" alt="SQL"/><br>
 <b>SQL</b>
 </td>
 </tr>
@@ -179,12 +184,12 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="45" height="45" alt="Render"/><br>
+<img src="https://cdn.simpleicons.org/render" width="45" height="45" alt="Render"/><br>
 <b>Render</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudinary/cloudinary-original.svg" width="45" height="45" alt="Cloudinary"/><br>
+<img src="https://cdn.simpleicons.org/cloudinary" width="45" height="45" alt="Cloudinary"/><br>
 <b>Cloudinary</b>
 </td>
 </tr>
@@ -195,10 +200,12 @@
 ### 🔥 Featured Projects
 
 #### 1. [FoodRush — Full-Stack Food Delivery Platform](https://github.com/alokchoudhary885-coder)
+
 - 25+ RESTful API endpoints, Razorpay Checkout, Gmail SMTP OTP verification, Web Speech API voice search, and Zustand state management.
 
 #### 2. [3D Interactive Developer Portfolio](https://github.com/alokchoudhary885-coder/Alok-portfolio)
-- Built with React, Three.js, WebGL GLSL Shaders, GSAP ScrollTrigger, and Framer Motion.  
+
+- Built with React, Three.js, WebGL GLSL Shaders, GSAP ScrollTrigger, and Framer Motion.
 - 🌐 **Live Demo**: [alokchoudhary.vercel.app](https://alokchoudhary.vercel.app)
 
 ---
